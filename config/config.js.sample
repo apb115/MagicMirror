@@ -72,9 +72,10 @@ let config = {
 			config: {
 				weatherProvider: "openweathermap",
 				type: "current",
-				location: "New York",
-				locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "YOUR_OPENWEATHER_API_KEY"
+				location: "Kirtland Hills",
+				locationID: "5160090", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				apiKey: "7f7971acdf814a4cd162d6b193918414
+"
 			}
 		},
 		{
@@ -84,9 +85,10 @@ let config = {
 			config: {
 				weatherProvider: "openweathermap",
 				type: "forecast",
-				location: "New York",
-				locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "YOUR_OPENWEATHER_API_KEY"
+				location: "Kirtland Hills",
+				locationID: "5160090", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				apiKey: "7f7971acdf814a4cd162d6b193918414
+"
 			}
 		},
 		{
