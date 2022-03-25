@@ -74,8 +74,7 @@ let config = {
 				type: "current",
 				location: "Kirtland Hills",
 				locationID: "5160090", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "7f7971acdf814a4cd162d6b193918414
-"
+				apiKey: "7f7971acdf814a4cd162d6b193918414"
 			}
 		},
 		{
@@ -87,8 +86,7 @@ let config = {
 				type: "forecast",
 				location: "Kirtland Hills",
 				locationID: "5160090", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "7f7971acdf814a4cd162d6b193918414
-"
+				apiKey: "7f7971acdf814a4cd162d6b193918414"
 			}
 		},
 		{
